@@ -35,7 +35,7 @@ Customer dissatisfaction increases significantly as delivery delays become longe
 
 ---
 
-## Key Finding 2: High-Risk Product Categories
+## Key Finding 2: Category-Level Analysis
 
 ![High-Volume Product Categories](03-Reviews%20Through%20Categories.png)
 
