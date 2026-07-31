@@ -19,4 +19,6 @@ This project investigates the factors that influence customer satisfaction in th
 - Power Query
 - DAX
 
-*Dashboard screenshots, presentation, and additional project files will be added soon.*
+## Dashboard Overview
+
+![Dashboard Overview](01-Dashboard.png)
