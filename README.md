@@ -45,7 +45,7 @@ Customer dissatisfaction increases significantly as delivery delays become longe
 
 ![High-Volume Product Categories](03-Reviews%20Through%20Categories.png)
 
-Among high-volume product categories, **bed_bath_table** stands out with the highest negative review rate, while **health_beauty** achieves a much lower percentage despite a similarly high order volume. This comparison helps identify categories where improvement efforts may have the greatest business impact.
+Among high-volume product categories, **bed_bath_table** stands out with the highest negative review rate, while **health_beauty** exhibits a much lower percentage despite a similarly high order volume. This comparison helps identify categories where improvement efforts may have the greatest business impact.
 
 ---
 
@@ -68,12 +68,11 @@ Orders containing multiple products receive considerably more negative reviews t
 ## Key Insights
 
 - Customer dissatisfaction increases sharply as delivery delays become longer.
-- Certain high-volume product categories consistently receive higher negative review rates.
+- Certain high-volume product categories consistently exhibit higher negative review rates.
 - Multi-item orders are associated with significantly higher negative review rates, even for on-time deliveries.
 
 ---
 
-## Repository Contents
+## Business Value
 
-- **README.md** – Project overview, methodology, and key findings.
-- **Power BI dashboard screenshots** – Visualizations supporting the analysis.
+The analysis highlights actionable opportunities to improve customer experience by reducing delivery delays, prioritizing product categories with consistently high negative review rates, and investigating operational challenges associated with multi-item orders.
