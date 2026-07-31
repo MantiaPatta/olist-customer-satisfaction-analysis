@@ -22,3 +22,4 @@ This project investigates the factors that influence customer satisfaction in th
 ## Dashboard Overview
 
 ![Dashboard Overview](01-Dashboard.png)
+This dashboard provides an overview of customer dissatisfaction in the Olist marketplace, highlighting key metrics, review distribution, delivery performance, and the main factors associated with negative customer feedback.
