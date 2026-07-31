@@ -69,7 +69,6 @@ Orders containing multiple products receive considerably more negative reviews t
 
 - Customer dissatisfaction increases sharply as delivery delays become longer.
 - Certain high-volume product categories consistently receive higher negative review rates.
-- Delivery delays are not the only factor influencing customer dissatisfaction.
 - Multi-item orders are associated with significantly higher negative review rates, even for on-time deliveries.
 
 ---
