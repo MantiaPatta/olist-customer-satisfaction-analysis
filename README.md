@@ -2,22 +2,28 @@
 
 Business Intelligence project analyzing the key drivers of customer dissatisfaction in the Olist e-commerce marketplace using Power BI.
 
+## Project Summary
+
+**Objective:** Identify the main drivers of customer dissatisfaction in the Olist marketplace.
+
+**Dataset:** Olist Brazilian E-commerce Public Dataset *(Kaggle)*
+
+**Tools:** Power BI · Power Query · DAX
+
+**Focus Areas:** Customer Reviews · Delivery Performance · Product Categories · Order Complexity
+
+---
+
 ## Project Overview
 
-This project investigates the factors that influence customer satisfaction in the Olist marketplace by analyzing customer reviews in relation to delivery performance and other order-related factors. The objective is to identify patterns that can help improve the overall customer experience.
+This project investigates the factors contributing to customer dissatisfaction in the Olist marketplace by analyzing customer reviews in relation to delivery performance, product categories, and order complexity. The objective is to identify the main drivers of negative customer experiences and uncover actionable business insights.
 
 ## Business Questions
 
-- What are the main drivers of customer satisfaction and dissatisfaction?
+- What are the main drivers of customer dissatisfaction?
 - How does delivery performance affect customer reviews?
 - Which product categories receive the most negative reviews?
-- How do order characteristics influence customer ratings?
-
-## Tools Used
-
-- Power BI
-- Power Query
-- DAX
+- Does order complexity influence customer ratings?
 
 ## Dashboard Overview
 
@@ -43,7 +49,7 @@ Among high-volume product categories, **bed_bath_table** stands out with the hig
 
 ---
 
-## Key Finding 3: Product Categories Beyond Delivery Performance
+## Key Finding 3: Category-Level Analysis (Excluding Late Deliveries)
 
 ![Product Categories (Early / On Time Deliveries)](04-Reviews%20Through%20Categories-Filtered.png)
 
@@ -51,7 +57,7 @@ To isolate the effect of delivery performance, late deliveries were excluded fro
 
 ---
 
-## Key Finding 4: Multi-Item Orders
+## Key Finding 4: Order Complexity
 
 ![Negative Reviews in Multi-Item Orders](05-Ratings%20by%20Number%20of%20Items.png)
 
@@ -63,6 +69,7 @@ Orders containing multiple products receive considerably more negative reviews t
 
 - Customer dissatisfaction increases sharply as delivery delays become longer.
 - Certain high-volume product categories consistently receive higher negative review rates.
+- Delivery delays are not the only factor influencing customer dissatisfaction.
 - Multi-item orders are associated with significantly higher negative review rates, even for on-time deliveries.
 
 ---
