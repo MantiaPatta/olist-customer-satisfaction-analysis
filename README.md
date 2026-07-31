@@ -29,7 +29,7 @@ This dashboard provides an overview of customer dissatisfaction in the Olist mar
 
 ## Key Finding 1: Delivery Performance
 
-![Negative Reviews by Delivery Delay](02-Negative Ratings by Delivery Delays.png)
+![Negative Reviews by Delivery Delay](02-Negative%20Ratings%20by%20Delivery%20Delays.png)
 
 Customer dissatisfaction increases significantly as delivery delays become longer. While only 12% of on-time deliveries receive negative reviews, this percentage rises steadily with each additional day of delay, reaching 77% for deliveries delayed by six or more days.
 
